@@ -98,12 +98,7 @@ export default function Home() {
     <>
       <div>
 
-        <div className=' container mx-auto p-4 flex justify-between' >
-          <WalletMultiButton />
-          <WalletDisconnectButton />
 
-
-        </div>
 
 
 
